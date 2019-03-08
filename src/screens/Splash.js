@@ -29,7 +29,7 @@ class Splash extends Component {
                         //source={{uri:img}}
                         source={AppImages.userImage}
                       />
-                        <Text style={SplashStyle.textStyle}>Hetali Shah</Text>
+                        {/*<Text style={SplashStyle.textStyle}>Hetali Shah</Text>*/}
                     </View>
                 </View>
             </Screen>

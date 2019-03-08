@@ -149,43 +149,43 @@ export default StyleSheet.create({
   disabled: {
     opacity: 0.5
   },
-  buttonH1: {
-    justifyContent: 'center',
-    alignItems: 'center',
-    width: '100%',
-    height: StyleConfig.buttonHeightH1,
-    shadowColor: StyleConfig.black1,
-    shadowOffset: {width: 0, height: StyleConfig.countPixelRatio(2)},
-    shadowOpacity: 0.25,
-    shadowRadius: StyleConfig.countPixelRatio(2),
-    borderRadius: StyleConfig.buttonHeightH1,
-    backgroundColor: StyleConfig.white,
-    elevation: 1
-  },
-  buttonH1Text: {
-    fontFamily: StyleConfig.medium,
-    fontSize: StyleConfig.fontSizeH5,
-    lineHeight: StyleConfig.countPixelRatio(20),
-    //letterSpacing:StyleConfig.countPixelRatio(1.5),
-    color: StyleConfig.white,
-    backgroundColor: 'transparent'
-  },
-  buttonH2: {
-    justifyContent: 'center',
-    alignItems: 'center',
-    width: '100%',
-    height: StyleConfig.buttonHeightH2,
-    shadowColor: StyleConfig.black1,
-    shadowOffset: {width: 0, height: StyleConfig.countPixelRatio(1)},
-    shadowOpacity: 0.25,
-    shadowRadius: StyleConfig.countPixelRatio(2),
-    borderWidth: StyleConfig.countPixelRatio(1),
-    borderRadius: StyleConfig.buttonHeightH2,
-    backgroundColor: StyleConfig.white,
-    borderColor: StyleConfig.white,
-    padding: StyleConfig.countPixelRatio(0),
-    elevation: 1
-  },
+  // buttonH1: {
+  //   justifyContent: 'center',
+  //   alignItems: 'center',
+  //   width: '100%',
+  //   height: StyleConfig.buttonHeightH1,
+  //   shadowColor: StyleConfig.black1,
+  //   shadowOffset: {width: 0, height: StyleConfig.countPixelRatio(2)},
+  //   shadowOpacity: 0.25,
+  //   shadowRadius: StyleConfig.countPixelRatio(2),
+  //   borderRadius: StyleConfig.buttonHeightH1,
+  //   backgroundColor: StyleConfig.white,
+  //   elevation: 1
+  // },
+  // buttonH1Text: {
+  //   fontFamily: StyleConfig.medium,
+  //   fontSize: StyleConfig.fontSizeH5,
+  //   lineHeight: StyleConfig.countPixelRatio(20),
+  //   //letterSpacing:StyleConfig.countPixelRatio(1.5),
+  //   color: StyleConfig.white,
+  //   backgroundColor: 'transparent'
+  // },
+  // buttonH2: {
+  //   justifyContent: 'center',
+  //   alignItems: 'center',
+  //   width: '100%',
+  //   height: StyleConfig.buttonHeightH2,
+  //   shadowColor: StyleConfig.black1,
+  //   shadowOffset: {width: 0, height: StyleConfig.countPixelRatio(1)},
+  //   shadowOpacity: 0.25,
+  //   shadowRadius: StyleConfig.countPixelRatio(2),
+  //   borderWidth: StyleConfig.countPixelRatio(1),
+  //   borderRadius: StyleConfig.buttonHeightH2,
+  //   backgroundColor: StyleConfig.white,
+  //   borderColor: StyleConfig.white,
+  //   padding: StyleConfig.countPixelRatio(0),
+  //   elevation: 1
+  // },
   buttonH2Text: {
     fontFamily: StyleConfig.medium,
     fontSize: StyleConfig.fontSizeH3,

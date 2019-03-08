@@ -45,7 +45,8 @@ const AppColors = {
   persimmon:'rgba(255, 87, 87, 1)',
   gallery:'#EFEFEF',
   iron: '#BAB9BA',
-  red: 'rgb(255,0,0)'
+  red: 'rgb(255,0,0)',
+  brilliantRose: '#FF1D78',
 }
 
 export default {
@@ -62,7 +63,7 @@ export default {
   regular: 'Roboto-Regular',
   medium: 'Roboto-Medium',
   light: 'Roboto-Light',
-  black: 'roboto.black',
+  //black: 'roboto.black',
   boldItalic: 'roboto.bold-italic',
 
     //Colors

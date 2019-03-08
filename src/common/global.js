@@ -25,5 +25,6 @@ export const buildFormData = (formData, data, parentKey) => {
 }
 export const ROUTE_MAP = [
   'splash',
-  'home'
+  'home',
+  'education',
 ];
